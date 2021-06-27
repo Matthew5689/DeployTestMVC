@@ -24,8 +24,7 @@
   },
   "variables": {
     "functionAppName": "[parameters('appName')]",
-    "hostingPlanName": "[parameters('appName')]",
-    "applicationInsightsName": "[parameters('appName')]",
+    "hostingPlanName": "[parameters('appName')]"
   },
   "resources": [
     {
