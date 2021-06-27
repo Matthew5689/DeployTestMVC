@@ -18,7 +18,7 @@
       "defaultValue": "dotnet"
     },
     "msdeployPackageUrl": {
-      "defaultValue": "https://csharpguitar.blob.core.windows.net/elx/csharpguitar-elx.zip",
+      "defaultValue": "https://github.com/Matthew5689/DeployTestMVC/raw/main/publish.zip",
       "type": "string"
     }
   },
