@@ -25,7 +25,7 @@
       "defaultValue": "dotnet"
     },
     "msdeployPackageUrl": {
-      "defaultValue": "https://github.com/Matthew5689/MvcDeadlock5601/raw/main/mvcdeadlock5601/bin/app.publish/publish.zip",
+      "defaultValue": "https://github.com/Matthew5689/DeployTestMVC/raw/main/publish2.zip",
       "type": "string"
     }
   },
