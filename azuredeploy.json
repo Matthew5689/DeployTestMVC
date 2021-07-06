@@ -56,7 +56,12 @@
       "properties": {
         "serverFarmId": "[resourceId('Microsoft.Web/serverfarms', variables('hostingPlanName'))]",
         "siteConfig": {
-          "appSettings": []
+          "appSettings": [
+              {
+                  "name": "ConnectionString",
+                  "value": "[parameters('ServiceBusConnStr')]"
+              }
+          ]
         }
       },
        "resources": [
